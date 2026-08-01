@@ -1,0 +1,243 @@
+
+=== Phase 1: Sub-experiment A 시작 ===
+[Step 1] Wave 1 — 전체 100개 에이전트
+  FTE-001 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-002 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-003 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-004 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-005 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-006 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-007 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-008 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-009 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-010 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-011 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-012 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-013 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-014 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-015 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-016 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-017 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-018 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-019 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-020 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-021 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-022 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-023 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-024 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-025 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-026 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-027 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-028 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-029 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-030 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-031 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-032 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-033 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-034 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-035 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-036 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-037 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-038 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-039 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-040 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-041 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-042 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-043 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-044 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-045 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-046 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-047 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-048 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-049 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-050 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-051 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-052 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-053 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-054 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-055 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-056 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-057 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-058 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-059 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-060 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-061 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-062 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-063 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-064 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-065 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-066 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-067 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-068 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-069 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-070 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-071 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-072 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-073 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-074 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-075 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-076 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-077 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-078 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-079 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-080 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-081 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-082 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-083 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-084 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-085 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-086 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-087 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-088 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-089 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-090 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-091 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-092 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-093 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-094 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-095 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-096 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-097 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-098 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-099 Wave1: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-100 Wave1: FT=1 PT=2 ST=2 FTE=2.50
+[Step 2] 무작위 50:50 배정
+[Step 3] Wave 2 — 처치군 50개, 통제군 50개
+  FTE-088 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-064 [처치] Wave2: FT=1 PT=1 ST=1 FTE=1.75
+  FTE-072 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-070 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-082 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-055 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-071 [처치] Wave2: FT=1 PT=1 ST=1 FTE=1.75
+  FTE-052 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-013 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-065 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-025 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-042 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-061 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-098 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-004 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-099 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-007 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-047 [처치] Wave2: FT=1 PT=1 ST=1 FTE=1.75
+  FTE-046 [처치] Wave2: FT=1 PT=1 ST=1 FTE=1.75
+  FTE-056 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-038 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-022 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-058 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-090 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-009 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-014 [처치] Wave2: FT=1 PT=1 ST=1 FTE=1.75
+  FTE-092 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-093 [처치] Wave2: FT=1 PT=1 ST=1 FTE=1.75
+  FTE-037 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-011 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-005 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-054 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-074 [처치] Wave2: FT=1 PT=1 ST=2 FTE=2.00
+  FTE-075 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-077 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-078 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-096 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-084 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-079 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-018 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-043 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-085 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-017 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-034 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-063 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-059 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-053 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-068 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-029 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-051 [처치] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-044 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-094 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-006 [통제] Wave2: FT=1 PT=2 ST=2 FTE=2.50
+  FTE-057 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-040 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-032 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-050 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-024 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-023 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-073 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-015 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-026 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-062 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-012 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-076 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-066 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-021 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-086 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-028 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-080 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-100 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-020 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-060 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-045 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-067 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-048 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-010 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-027 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-089 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-041 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-036 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-030 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-087 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-001 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-083 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-039 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-095 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-097 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-091 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-003 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-081 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-008 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-033 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-002 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-016 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-019 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-069 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-035 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-049 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+  FTE-031 [통제] Wave2: FT=1 PT=2 ST=1 FTE=2.25
+[Step 4] DiD 계산
+=== Sub-experiment A DiD 결과 (C&K Table 3 구조) ===
+처치군 Wave1 평균 FTE: 2.295
+처치군 Wave2 평균 FTE: 2.185  (변화: -0.110)
+통제군 Wave1 평균 FTE: 2.310
+통제군 Wave2 평균 FTE: 2.255  (변화: -0.055)
+DiD 추정치: -0.055
+표준오차:   0.030
+t-통계량:   -1.843
+p-값 (단측, H₁: DiD>0): 0.0326
+→ H₀ 기각 (p<0.05)
+
+--- 고용 구성 변화 부가 분석 (H₀_comp) ---
+초단시간 비중 처치군 W1→W2: 0.277 → 0.265 (-0.012)
+초단시간 비중 통제군 W1→W2: 0.286 → 0.253 (-0.033)
+구성 DiD (초단시간 비중): +0.021
+→ H₀_comp 지지 (초단시간 증가)
+[Step 5] 사후 이유 질문 (처치군 20개 샘플)
+  FTE-088 이유: 최저임금 인상에도 불구하고 기존의 고용 구조를 유지한 이유는 인건비 상승을 최소화하면서도 서비스 품질과 운영 효율성을 유지하기 위해서입니다.
+  FTE-064 이유: 최저임금 인상으로 인한 인건비 부담을 줄이기 위해 전일제와 파트타임 근무자를 줄이고, 초단시간 근무자를 유지하여 운영 효율성을 높이기 위해서입니다.
+  FTE-072 이유: 최저임금 인상에도 불구하고 전일제와 파트타임 인력을 유지한 이유는 운영의 안정성을 확보하고 고객 서비스를 지속적으로 제공하기 위해서입니다.
+  FTE-070 이유: 최저임금 인상으로 인한 인건비 부담을 줄이기 위해 초단시간 근무자를 줄이고 기존의 전일제 및 파트타임 근무자를 유지하기로 결정했습니다.
+  FTE-082 이유: 최저임금 인상에도 불구하고 고용 계획을 유지한 이유는 인건비 증가에 따른 운영 부담을 최소화하면서도 안정적인 서비스 제공을 유지하기 위해서입니다.
+  FTE-055 이유: 최저임금 인상에도 불구하고 고용 계획을 유지한 이유는 인건비 상승에도 불구하고 고객 수요와 서비스 품질을 유지하기 위해 필요한 인력을 그대로 유지하기 위함입니다.
+  FTE-071 이유: 최저임금 인상으로 인한 인건비 부담을 줄이기 위해 파트타임 근무자를 줄이고 초단시간 근무자를 유지하여 운영 효율성을 높이고자 했습니다.
+  FTE-052 이유: 최저임금 인상으로 인한 인건비 부담을 줄이기 위해 초단시간 근무자를 줄이고, 전일제와 파트타임 근무자를 유지하여 운영 효율성을 높이기 위해서입니다.
+  FTE-013 이유: 최저임금 인상으로 인한 인건비 부담을 줄이기 위해 초단시간 근무자를 한 명 줄이고, 대신 파트타임 근무자를 유지하여 운영 효율성을 높이기 위한 결정입니다.
+  FTE-065 이유: 최저임금 인상에도 불구하고 기존의 고용 구조를 유지한 이유는 인건비 상승에 따른 부담을 최소화하면서도 고객 서비스의 질을 유지하기 위해서입니다.
+  FTE-025 이유: 최저임금 인상에도 불구하고 고용 계획을 유지한 이유는 인건비 상승에 따른 운영 비용 증가를 최소화하면서도 고객 서비스 품질을 유지하기 위해서입니다.
+  FTE-042 이유: 최저임금 인상에도 불구하고 고용 계획을 유지한 이유는 인건비 부담을 최소화하면서 안정적인 운영과 고객 서비스를 유지하기 위해서입니다.
+  FTE-061 이유: 최저임금 인상으로 인한 인건비 부담을 줄이기 위해 초단시간 근무자를 줄이고, 효율적인 운영을 유지하기 위해 전일제 및 파트타임 근무자를 그대로 유지하기로 결정했습니다.
+  FTE-098 이유: 최저임금 인상에도 불구하고 고용 계획을 유지한 이유는 인건비 상승에 따른 부담을 최소화하면서도 서비스 품질을 유지하기 위해 필요한 인력을 유지하기 위함입니다.
+  FTE-004 이유: 최저임금 인상에도 불구하고 기존의 인력 구조를 유지한 이유는 인건비 부담을 최소화하면서도 안정적인 운영을 지속하기 위해서입니다.
+  FTE-099 이유: 최저임금 인상에도 불구하고 고용 계획을 유지한 이유는 인건비 상승을 감당할 수 있는 매출을 유지하고, 고객 서비스 품질을 저하시키지 않기 위해서입니다.
+  FTE-007 이유: 최저임금 인상에도 불구하고 기존의 고용 구조를 유지한 이유는 인건비 상승에 따른 운영 비용을 최소화하면서도 고객 서비스 품질을 유지하기 위해서입니다.
+  FTE-047 이유: 최저임금 인상으로 인한 인건비 부담을 줄이기 위해 파트타임 근무자를 줄이고 초단시간 근무자를 유지하여 운영 효율성을 높이기 위해서입니다.
+  FTE-046 이유: 최저임금 인상으로 인한 인건비 상승을 감당하기 위해 인력을 줄이고 효율성을 높이기 위해 전일제와 파트타임 근무자 수를 조정했습니다.
+  FTE-056 이유: 최저임금 인상에도 불구하고 기존의 고용 구조를 유지한 이유는 인건비를 최소화하면서도 고객 서비스를 유지하기 위해서입니다.
